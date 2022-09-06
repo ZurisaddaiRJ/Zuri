@@ -38,7 +38,7 @@ export class EducationComponent implements OnInit {
       fecha : "2020-Actualmente",
       etapa : "Universidad",
       escuela : "Universidad Veracruzana",
-      ubicacion : "Orizaba-Córdoba, Sumidero",
+      ubicacion : "Orizaba-Córdoba,Sumidero",
      
     };
 
